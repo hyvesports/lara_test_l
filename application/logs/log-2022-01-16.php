@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-16 02:10:27 --> 404 Page Not Found: Cgi-bin/welcome
+ERROR - 2022-01-16 05:11:45 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-01-16 06:03:11 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 06:21:56 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 06:22:04 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 06:54:47 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 07:17:25 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 07:17:26 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 07:17:28 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 07:17:28 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-01-16 07:17:29 --> 404 Page Not Found: Query/index
+ERROR - 2022-01-16 07:17:30 --> 404 Page Not Found: Query/index
+ERROR - 2022-01-16 07:17:32 --> 404 Page Not Found: Query/index
+ERROR - 2022-01-16 07:17:33 --> 404 Page Not Found: Query/index
+ERROR - 2022-01-16 07:17:33 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-01-16 07:17:34 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-01-16 07:17:36 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-01-16 07:17:37 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-01-16 07:43:35 --> 404 Page Not Found: Admin/config.php
+ERROR - 2022-01-16 09:16:16 --> 404 Page Not Found: Console/index
+ERROR - 2022-01-16 11:43:15 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 11:53:10 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 14:36:58 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 14:51:46 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 16:05:46 --> 404 Page Not Found: Ecp/Current
+ERROR - 2022-01-16 16:30:28 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-01-16 17:25:41 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-16 17:51:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-16 18:45:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-16 18:46:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-16 23:13:25 --> 404 Page Not Found: Git/HEAD
+ERROR - 2022-01-16 23:20:14 --> 404 Page Not Found: Env/index

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-09 07:37:49 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 08:42:03 --> 404 Page Not Found: Auth/solutionsinfoway.com
+ERROR - 2021-12-09 08:42:05 --> 404 Page Not Found: Auth/solutionsinfoway.com
+ERROR - 2021-12-09 08:48:48 --> Severity: Warning --> in_array() expects parameter 2 to be array, int given /home4/solutiil/public_html/hyve_live/application/views/workorder/onlinemodeledit.php 201
+ERROR - 2021-12-09 08:56:35 --> Severity: Warning --> in_array() expects parameter 2 to be array, int given /home4/solutiil/public_html/hyve_live/application/views/workorder/onlinemodeledit.php 201
+ERROR - 2021-12-09 09:06:01 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 09:06:02 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 09:06:04 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 09:06:06 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 09:06:07 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 09:06:08 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model /home4/solutiil/public_html/hyve_live/system/core/Loader.php 348
+ERROR - 2021-12-09 10:54:22 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/formdata/model_order_edit.php 114
+ERROR - 2021-12-09 10:54:51 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-08_at_11.55.49_AM_(1).jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 10:54:51 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-08_at_12.09.14_PM.jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 10:54:51 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//manu.xlsx /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 58
+ERROR - 2021-12-09 14:37:15 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 14:38:11 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 14:41:58 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 14:44:47 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//soccer-jersey-front-back-set_23-2148620977.jpg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 14:44:47 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//Orders_bosch_Relief.xlsx /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 58
+ERROR - 2021-12-09 14:47:43 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 15:17:58 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 15:18:14 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/workorder/edit_summary_model.php 146
+ERROR - 2021-12-09 17:35:22 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/formdata/offlinemodeledit.php 109
+ERROR - 2021-12-09 17:36:38 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /home4/solutiil/public_html/hyve_live/application/views/formdata/offlinemodeledit.php 109
+ERROR - 2021-12-09 18:24:54 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//runners_2nd.xlsx /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 58
+ERROR - 2021-12-09 18:24:54 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-01_at_3.22.24_PM_(1).jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 18:24:54 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-01_at_3.22.24_PM_(1)1.jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 18:50:22 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-03_at_14.20.00.jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 18:50:22 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-06_at_15.14.45.jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 18:50:22 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//WhatsApp_Image_2021-12-03_at_16.39.56.jpeg /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 80
+ERROR - 2021-12-09 18:50:22 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//Crew_-X.docx /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 58
+ERROR - 2021-12-09 18:50:22 --> Severity: Warning --> filesize(): stat failed for https://solutionsdigi.com/hyve_live/uploads/orderform//CREW_X-1_(1).pdf /home4/solutiil/public_html/hyve_live/application/controllers/Attachment.php 58
+ERROR - 2021-12-09 21:13:41 --> Severity: error --> Exception: Call to undefined method Settings_model::get_system_working_hours() /home4/solutiil/public_html/hyve_live/application/controllers/Settings.php 36

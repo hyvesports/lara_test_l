@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-06 04:29:58 --> 404 Page Not Found: Ecp/Current
+ERROR - 2022-02-06 04:36:29 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-02-06 07:07:41 --> 404 Page Not Found: Remote/fgt_lang
+ERROR - 2022-02-06 07:27:34 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-06 07:27:35 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-06 07:27:37 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-06 07:27:38 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-06 07:27:39 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-06 07:27:39 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-06 07:27:42 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-06 07:27:42 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-06 07:27:43 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-06 07:27:44 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-06 07:27:46 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-06 07:27:46 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-06 11:06:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 12:57:11 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 14:21:29 --> 404 Page Not Found: Actuator/health
+ERROR - 2022-02-06 14:42:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 15:41:24 --> 404 Page Not Found: Remote/fgt_lang
+ERROR - 2022-02-06 15:50:58 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 16:33:18 --> 404 Page Not Found: Mobile/index
+ERROR - 2022-02-06 16:33:57 --> 404 Page Not Found: Bag2/index
+ERROR - 2022-02-06 17:13:59 --> 404 Page Not Found: Cgi-bin/.%2e
+ERROR - 2022-02-06 17:29:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 17:37:20 --> 404 Page Not Found: Remote/fgt_lang
+ERROR - 2022-02-06 18:06:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 18:12:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 21:59:49 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-06 22:17:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-06 22:24:54 --> 404 Page Not Found: Faviconico/index

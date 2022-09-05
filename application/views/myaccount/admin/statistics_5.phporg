@@ -1,0 +1,147 @@
+<style>
+.icon-data-list {
+    list-style-type: none;
+    padding-left: 0;
+    position: relative;
+    margin-bottom: 0;
+    font-family: "Nunito", sans-serif;
+}
+</style>
+<div class="row">
+  <div class="col-md-6 grid-margin transparent">
+    <div class="card" style="height:35vh;overflow-y:scroll;">
+      <div class="card-body">
+	<h4 class="card-title">Accounts</h4>
+	<div class="row">
+	  
+	  <div class="col-md-12 pl-md-1 pt-4 pt-md-0">
+	    
+	    <ul class="nav nav-tabs tab-basic" role="tablist">
+	      <li class="nav-item">
+		<a class="nav-link " id="home-tab" data-toggle="tab" href="#whoweares" role="tab" aria-controls="whoweares" aria-selected="false">Overdue</a>
+	      </li>
+	      <li class="nav-item">
+		<a class="nav-link active" id="profile-tab" data-toggle="tab" href="#ourgoal" role="tab" aria-controls="ourgoal" aria-selected="false">Upcoming</a>
+	      </li>
+	      <li class="nav-item">
+		<a class="nav-link" id="contact-tab" data-toggle="tab" href="#history" role="tab" aria-controls="history" aria-selected="false">All</a>
+	      </li>
+	    </ul>
+	    <div class="tab-content tab-content-basic" >
+	      <div class="tab-pane fade " id="whoweares" role="tabpanel" aria-labelledby="home-tab" >
+		<div class="table-responsive ">
+		  <table class="table table-striped table-borderless" id="orders">
+		    <thead>
+		      <tr>
+			<th>Order No:</th>
+			<th>Name</th>
+			<th>Lead Time</th>
+			<th>Gross Cost</th>
+			<th>Shipping Cost</th>
+		      </tr>
+		    </thead>
+		    <tbody>
+		      
+		      <?php
+			 
+			 $tasksYesterday=$this->myaccount_model->get_overdue_orders(date('Y-m-d', strtotime(' -1 day')));
+		      if($tasksYesterday){
+		      ?>
+		      <?php
+			 foreach($tasksYesterday as $YT){
+			 ?>
+		      <tr  class="m-1">
+			<td><?php echo $YT['orderform_number'];?></td>
+			
+		      </tr>			
+		      <?php
+			 }
+			 ?>
+		    </tbody>
+		  </table>
+		</div>
+		
+		
+		<?php }else{?>
+		<div class="alert alert-warning" role="alert">No Accounts found...!</div>
+		<?php } ?>
+	      </div>
+
+
+	    <div class="tab-pane fade show active" id="ourgoal" role="tabpanel" aria-labelledby="profile-tab" >
+	      <div class="table-responsive ">
+		<table class="table table-striped table-borderless" id="orders">
+		  <thead>
+		    <tr>
+		      <th>Order No:</th>
+		      <th>Name</th>
+		      <th>Total Amount</th>
+		      <th>Advance Amount</th>
+		      <th>Bal Amount</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    
+	<?php
+	   $tasksToday=$this->myaccount_model->get_overdue_orders(date('Y-m-d'));
+	if($tasksToday){
+	?>
+	<ul class="icon-data-list" >
+	  <?php
+	     foreach($tasksToday as $TT){
+	     ?>
+          <tr  class="m-1">
+            <td><?php echo $TT['orderform_number'];?></td>
+	    
+	  </tr>	
+	  
+	  <?php
+	     }
+	     ?>
+		  </tbody>
+		</table>
+	      </div>
+	      
+	      <?php }else{?>
+	      <div class="alert alert-warning" role="alert">No tasks found...!</div>
+	      <?php } ?>
+	    </div>
+
+	    
+
+	    <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="contact-tab">
+   <?php
+	$tasksTommorow=$this->myaccount_model->get_my_tasks_by_date($loginid,date('Y-m-d', strtotime(' +1 day')));
+	if($tasksTommorow){
+		?>
+		<ul class="icon-data-list" >
+		<?php
+		foreach($tasksTommorow as $TTM){
+			?>
+            <li>
+            <div class="d-flex border-bottom ">
+            <div>
+            <p class="text-info mb-1"><?php echo $TTM['task_desc'];?></p>
+            <p class="mb-0"><?php echo $TTM['customer_name'];?><br/><?php echo $TTM['customer_mobile_no'];?>,<?php echo $TTM['customer_email'];?></p>
+            <small><?php echo $TTM['reminder_date'];?> <?php echo $TTM['reminder_time'];?></small>
+            </div>
+            </div>
+            </li>
+			<?php
+		}
+		?>
+		</ul>
+	<?php }else{?>
+	<div class="alert alert-warning" role="alert">No tasks found...!</div>
+	<?php } ?>
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</div>

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-17 00:47:33 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2022-04-17 02:28:16 --> 404 Page Not Found: Env/index
+ERROR - 2022-04-17 02:51:17 --> 404 Page Not Found: TelerikWebUIWebResourceaxd/index
+ERROR - 2022-04-17 04:32:35 --> 404 Page Not Found: Actuator/gateway
+ERROR - 2022-04-17 05:28:14 --> 404 Page Not Found: Remote/login
+ERROR - 2022-04-17 05:51:13 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-04-17 05:54:09 --> 404 Page Not Found: Ecp/Current
+ERROR - 2022-04-17 05:54:23 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Query/index
+ERROR - 2022-04-17 06:16:07 --> 404 Page Not Found: Query/index
+ERROR - 2022-04-17 06:16:08 --> 404 Page Not Found: Query/index
+ERROR - 2022-04-17 06:16:08 --> 404 Page Not Found: Query/index
+ERROR - 2022-04-17 06:16:08 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-04-17 06:16:08 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-04-17 06:16:08 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-04-17 06:16:09 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-04-17 09:12:42 --> 404 Page Not Found: Env/index
+ERROR - 2022-04-17 11:22:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-17 13:00:59 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-04-17 13:10:42 --> 404 Page Not Found: Env/index
+ERROR - 2022-04-17 13:17:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-17 14:03:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-17 14:29:58 --> 404 Page Not Found: Aws/credentials
+ERROR - 2022-04-17 16:55:28 --> 404 Page Not Found: Git/config
+ERROR - 2022-04-17 20:27:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-17 23:39:58 --> 404 Page Not Found: Vendor/phpunit

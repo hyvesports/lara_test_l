@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-10 09:10:34 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 09:20:18 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 09:29:24 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 09:32:26 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 09:46:47 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 09:47:19 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 10:22:58 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 10:48:07 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 12:42:34 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 14:48:05 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 14:58:03 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:00:53 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:36:03 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:39:02 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:41:05 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:44:37 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:54:26 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 15:56:10 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:18:07 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:24:49 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:34:06 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:34:43 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:35:39 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 18:40:41 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 20:22:13 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 21:07:00 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598
+ERROR - 2021-11-10 21:48:27 --> Severity: Notice --> Undefined variable: customer_shipping_id /home4/solutiil/public_html/hyvesports/application/models/Workorder_model.php 227
+ERROR - 2021-11-10 21:48:27 --> Severity: Notice --> Undefined variable: customer_billing_id /home4/solutiil/public_html/hyvesports/application/models/Workorder_model.php 232
+ERROR - 2021-11-10 21:55:01 --> Severity: Notice --> Undefined index: socialmedia /home4/solutiil/public_html/hyvesports/application/controllers/Leads.php 598

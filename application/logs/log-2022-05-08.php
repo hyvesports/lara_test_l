@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-08 06:03:25 --> 404 Page Not Found: Bag2/index
+ERROR - 2022-05-08 06:49:00 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-05-08 06:49:00 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Query/index
+ERROR - 2022-05-08 06:49:01 --> 404 Page Not Found: Query/index
+ERROR - 2022-05-08 06:49:02 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-05-08 06:49:02 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-05-08 06:49:02 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-05-08 06:49:02 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-05-08 06:55:13 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-05-08 08:31:48 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-05-08 08:36:47 --> 404 Page Not Found: Carbon/admin
+ERROR - 2022-05-08 08:45:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-08 09:43:14 --> 404 Page Not Found: Aws/credentials
+ERROR - 2022-05-08 10:10:07 --> 404 Page Not Found: Actuator/health
+ERROR - 2022-05-08 10:30:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-08 11:28:15 --> 404 Page Not Found: Console/index
+ERROR - 2022-05-08 12:12:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-08 12:20:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-08 12:22:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-08 15:26:05 --> 404 Page Not Found: ShowLogincc/index
+ERROR - 2022-05-08 16:51:44 --> 404 Page Not Found: Git/config
+ERROR - 2022-05-08 18:14:59 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-05-08 18:15:30 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-05-08 18:16:11 --> 404 Page Not Found: Ecp/Current
+ERROR - 2022-05-08 20:56:48 --> 404 Page Not Found: Env/index

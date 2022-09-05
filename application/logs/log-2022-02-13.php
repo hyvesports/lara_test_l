@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-13 00:45:24 --> 404 Page Not Found: Remote/login
+ERROR - 2022-02-13 03:38:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-02-13 03:38:03 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2022-02-13 05:00:48 --> 404 Page Not Found: Ecp/Current
+ERROR - 2022-02-13 05:06:43 --> 404 Page Not Found: Owa/auth
+ERROR - 2022-02-13 05:56:06 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-02-13 06:14:08 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-13 07:38:47 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-13 08:36:29 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-13 08:55:54 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-13 08:55:55 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-13 08:55:57 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-13 08:55:57 --> 404 Page Not Found: Dns-query/index
+ERROR - 2022-02-13 08:55:58 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-13 08:55:59 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-13 08:56:01 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-13 08:56:02 --> 404 Page Not Found: Query/index
+ERROR - 2022-02-13 08:56:02 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-13 08:56:03 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-13 08:56:05 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-13 08:56:06 --> 404 Page Not Found: Resolve/index
+ERROR - 2022-02-13 09:09:24 --> 404 Page Not Found: Console/index
+ERROR - 2022-02-13 11:02:54 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2022-02-13 11:41:15 --> 404 Page Not Found: Public/vendors
+ERROR - 2022-02-13 11:59:08 --> 404 Page Not Found: Public/images
+ERROR - 2022-02-13 12:11:38 --> 404 Page Not Found: Public/vendors
+ERROR - 2022-02-13 12:22:48 --> 404 Page Not Found: Public/css
+ERROR - 2022-02-13 12:30:16 --> 404 Page Not Found: Public/vendors
+ERROR - 2022-02-13 13:50:26 --> 404 Page Not Found: Cgi-bin/.%2e
+ERROR - 2022-02-13 14:50:33 --> 404 Page Not Found: Remote/fgt_lang
+ERROR - 2022-02-13 17:23:43 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-13 20:22:24 --> 404 Page Not Found: Env/index
+ERROR - 2022-02-13 20:47:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-02-13 23:31:57 --> 404 Page Not Found: Env/index

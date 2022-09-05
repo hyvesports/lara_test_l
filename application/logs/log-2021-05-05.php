@@ -1,0 +1,56 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:01 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 05:40:02 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:26 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 08:37:27 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:55:31 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:38 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 10:58:39 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 11:04:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc LIMIT 10 OFFSET 0' at line 1 - Invalid query: SELECT LM.*,lead_sources.lead_source_name,lead_types.lead_type_name,lead_types.color_code,customer_master.*,staff_master.staff_code,staff_master.staff_name FROM leads_master  as LM LEFT JOIN lead_sources ON lead_sources.lead_source_id = LM.lead_source_id LEFT JOIN lead_types ON lead_types.lead_type_id = LM.lead_type_id LEFT JOIN customer_master ON customer_master.customer_id = LM.lead_client_id LEFT JOIN staff_master ON staff_master.staff_id = LM.lead_owner_id  WHERE (  LM.lead_id!= 0 ) ORDER BY  asc LIMIT 10 OFFSET 0 
+ERROR - 2021-05-05 11:07:19 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 11:07:20 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 11:07:21 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 11:07:21 --> 404 Page Not Found: Myaccount/images
+ERROR - 2021-05-05 11:09:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc LIMIT 10 OFFSET 0' at line 1 - Invalid query: SELECT LM.*,lead_sources.lead_source_name,lead_types.lead_type_name,lead_types.color_code,customer_master.*,staff_master.staff_code,staff_master.staff_name FROM leads_master  as LM LEFT JOIN lead_sources ON lead_sources.lead_source_id = LM.lead_source_id LEFT JOIN lead_types ON lead_types.lead_type_id = LM.lead_type_id LEFT JOIN customer_master ON customer_master.customer_id = LM.lead_client_id LEFT JOIN staff_master ON staff_master.staff_id = LM.lead_owner_id  WHERE ( LM.lead_date = '05/05/2021' and LM.lead_source_id = '2' and LM.lead_type_id = '3' and  LM.lead_sports_types REGEXP '(^|,)(1)(,|$)'  and  LM.lead_client_id='0'   and  LM.lead_id!= 0 ) ORDER BY  asc LIMIT 10 OFFSET 0 
